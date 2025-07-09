@@ -12,7 +12,17 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##Weather App using Java and OpenWeatherMap API
+##A REST API (Representational State Transfer Application Programming Interface) is a way for two computer systems to communicate over the internet using simple HTTP requests (like GET, POST, PUT, DELETE).
+
+It allows you to:
+
+Request data from a server (like weather, news, etc.)
+
+Send data to a server (like user details, messages, etc.)
+
+It uses URLs, supports multiple formats like JSON or XML, and is widely used in modern apps and web development.
+
+**WEATHER APP USING JAVA AND OpenWeatherMap API**
 
 This project is a simple yet functional Java-based REST API client that fetches real-time weather information from a public API. The goal of this task was to create a command-line application in Java that takes a city name as input, makes an HTTP GET request to the OpenWeatherMap API, and displays key weather details such as temperature, humidity, and weather conditions in a readable and structured format.
 
