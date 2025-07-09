@@ -42,6 +42,10 @@ Gson (Google’s JSON library)
 
 VS Code and Command Line
 
+#OUTPUT 
+
+<img width="389" height="260" alt="Image" src="https://github.com/user-attachments/assets/2a82c4a4-0c63-4f74-9c10-8b7393af2def" />
+
 Resources: YouTube, ChatGPT, and OpenWeatherMap Docs
 
 In summary, this weather app project is a hands-on implementation of working with public APIs in Java. It fulfills all the given requirements and serves as a strong foundation for future projects involving HTTP requests and JSON parsing in Java.
